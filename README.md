@@ -10,6 +10,7 @@
 Nik1510/Nik1510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <details>
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div align="center">
@@ -29,3 +30,5 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 </details>
+
+[![An image of @nik1510's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nik1510)](https://holopin.io/@nik1510)
