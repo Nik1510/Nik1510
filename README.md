@@ -1,5 +1,3 @@
-Here’s a revised and more visually attractive version of your GitHub profile `README.md`:  
-
 ---
 
 <h1 align="center">Hi 👋, I'm @Nik1510</h1>
@@ -92,6 +90,3 @@ Here’s a revised and more visually attractive version of your GitHub profile `
 [![An image of @nik1510's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nik1510)](https://holopin.io/@nik1510)
 
 ---  
-
-### 🔗 **Make It Yours:**  
-Feel free to clone, customize, and share! 🌟
